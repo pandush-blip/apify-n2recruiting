@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "skills": {
+    "apify-actor-development": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "f355cdb315f15e3f20796d28a49f459d63d8428965086c798089d84a09a9e924"
+    },
+    "apify-actorization": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "e6b354a6571e470d1be060bd694ebd1af0136c4789de72254f46a038f754ecde"
+    },
+    "apify-audience-analysis": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "3ea06ffeb3d1f167cac85ac57d53e292df89ed4762d57e6888ac4d422c18ae0a"
+    },
+    "apify-brand-reputation-monitoring": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "36e3d197a3db938e01ff4cda089a12ba3ad48fafa923ca99bf91c4a487caa66a"
+    },
+    "apify-competitor-intelligence": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "1f46a23f3fbc116e9d1e24b55e0909d7b953a26c99522322118ecaa34ffe3d32"
+    },
+    "apify-content-analytics": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "02c212172cb1f7dc374c63e13282513b3d22ef93c63c74cb400aef6e70b79247"
+    },
+    "apify-ecommerce": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "de89bb1a735ff9ab75b1053beed824378840ae480661867509212620499b245c"
+    },
+    "apify-influencer-discovery": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "fb221270dbf832a9a9f909259381710072b799f45aeb273ac6a8737a932ceafe"
+    },
+    "apify-lead-generation": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "8109e4c20608eb72bfa76f4c0e38eeeca25a4d5ea02a8138e7ab164d7e93de72"
+    },
+    "apify-market-research": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "15913ac142cc1cc77837b6bb2cd3a22622d6f24ad1f9d94800e7b78bd98a562e"
+    },
+    "apify-trend-analysis": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "ded7856f31964fbd0ee38879c6ceb083cfb9bebd4516dadb6e46d27cd75eb72d"
+    },
+    "apify-ultimate-scraper": {
+      "source": "apify/agent-skills",
+      "sourceType": "github",
+      "computedHash": "2893c31e3dfac0d760773791ea23fed933bed0148c38ddf15e53d6685bd27595"
+    }
+  }
+}

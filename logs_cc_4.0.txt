@@ -1,0 +1,34 @@
+
+Profile: Corporate Convert, All Cities, New Industries 4.0
+Fetch count: 100000
+
+Fetching all past runs to build deduplication index...
+  Found 18 runs with data.
+  Run KdLM2pfMcZe1Mmtt8 (ABORTED): 700 leads indexed
+  Run 8WPwr3aizVDzsVRwR (ABORTED): 700 leads indexed
+  Run sImIcWDkRKxz88VIb (ABORTED): 800 leads indexed
+  Run PLOw8iWtZxU1ccjGA (ABORTED): 1500 leads indexed
+  Run 0Cz1KigJnJrMoMd05 (ABORTED): 3000 leads indexed
+  Run Ug8ch2dq9KniPS5sj (ABORTED): 11237 leads indexed
+  Run ys1ivdnHFsmSUiBYK (SUCCEEDED): 4681 leads indexed
+  Run 63zVu0fdMcfWFdci3 (SUCCEEDED): 14563 leads indexed
+  Run oAlyZ67VNC5lseC4O (SUCCEEDED): 23783 leads indexed
+  Run kGETg7tAtZP3fC4o5 (SUCCEEDED): 12013 leads indexed
+  Run Ap7x6XVeJTW4q1eIh (SUCCEEDED): 11352 leads indexed
+  Run FTbRXCGGdPClTEGZU (ABORTED): 28120 leads indexed
+  Run P1pa2Y5oWNpRuQG9i (SUCCEEDED): 50000 leads indexed
+  Run 0yKfOBSfu7TjTd6LM (ABORTED): 50000 leads indexed
+  Run u02uydJUj3kz1Iqr1 (ABORTED): 50000 leads indexed
+  Run Uq9nPFAEWtbUEz5eP (TIMED-OUT): 22358 leads indexed
+  Run cxtBOu8TjlTjNi6SO (SUCCEEDED): 14900 leads indexed
+  Run DlbbORomeLcNy7RTU (SUCCEEDED): 14688 leads indexed
+
+Total unique leads already scraped: 229513
+
+Starting actor run...
+Run ID:     4C2cChSFxUXUzdLYr
+Dataset ID: fJp3vs3wzOIYCoM49
+Monitor:    https://console.apify.com/actors/runs/4C2cChSFxUXUzdLYr
+
+Waiting for run to complete (polling every 10s)...
+  Status: RUNNING

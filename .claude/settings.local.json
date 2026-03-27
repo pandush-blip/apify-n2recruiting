@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Pandush/.claude/plugins/marketplaces/**)",
+      "Read(//c/Users/Pandush/.claude/plugins/**)"
+    ]
+  }
+}
