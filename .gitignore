@@ -1,0 +1,11 @@
+# Environment / secrets
+.env
+
+# Output files
+*.csv
+logs_*.txt
+
+# Claude / agent internals
+.agents/
+.claude/
+skills-lock.json
